@@ -2,7 +2,7 @@
 body {
     font-family: 'Arial', sans-serif;
     text-align: center;
-    margin-top: 10%;
+    margin-top: 20%;
     background: linear-gradient(to right, #000000, #333333); /* Dark black to faint black gradient */
     color: #ffffff; /* White text color for contrast */
 }
